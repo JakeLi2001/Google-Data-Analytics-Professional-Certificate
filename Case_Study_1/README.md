@@ -121,7 +121,7 @@ Trends/Relationships:
 
 3)  Make a point that members don’t have to pay a fee to unlock an electric bike. This targets casual riders who prefer to use electric bikes over classic bikes.
 
-### Additional data to analyze to enhance my work
+### Possible Improvements
 
 1) There were a lot of missing values in station names and ids. If I can fill that in, I could find the most popular stations and see if there are preference stations for member/casual riders.
 2) The datasets included latitude and longitude. They can be used to calculate distance traveled and see if members traveled more or less than casual riders.
