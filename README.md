@@ -1,6 +1,7 @@
 Google Data Analytics Case Study \#1 Report
 ================
 JianHui (Jake) Li
+
 2022-07-26
 
 ## Introduction
