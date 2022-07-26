@@ -1,4 +1,4 @@
-Case Study \#1 Report
+Case Study \#1 Report: How Does a Bike-Share Navigate Speedy Success?
 ================
 JianHui (Jake) Li
 
