@@ -18,22 +18,18 @@ following deliverables:
 
 ### Business Task:
 
-Identify trends and differences between members and casual riders using
-Cyclistic historical bike trip data to help design marketing strategies
-for the Cyclistic marketing analytics team.
+Identify trends and differences between members and casual riders using Cyclistic historical bike trip data to help design marketing strategies for the Cyclistic marketing analytics team.
 
 ### Data Source Description:
 
-I downloaded the latest available 12 CSV files from **06/2021 to
-05/2022** of the Cyclistic’s historical trip data from
-[here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+The data is located [here](https://divvy-tripdata.s3.amazonaws.com/index.html), and I downloaded the most recent 12 CSV files (**06/2021 to 05/2022**) for my analysis. 
 
-Each CSV file has **13 columns** which are:
+Each CSV file contains one month of historical data and has **13 columns** which are:
 
 -   **ride_id**: Unique id per ride.
 -   **rideable_type**: Classic_bike, Electric_bike, or docked_bike
--   **started_at**: Date and time when ride started
--   **ended_at**: Date and time when ride ended
+-   **started_at**: Date and time when the ride started
+-   **ended_at**: Date and time when the ride ended
 -   **start_station_name**: The station name of where the ride started
 -   **start_station_id**: The station id of where the ride started
 -   **end_station_name**: The station name of where the ride ended
@@ -45,16 +41,27 @@ Each CSV file has **13 columns** which are:
 -   **member_casual**: Member (who purchased annual memberships) or
     casual riders (who purchased single-ride or full-day passes)
 
-*Note*: These datasets have a different name because Cyclistic is a
-fictional company, and the data has been made available by Motivate
-International Inc. under this
-[license](https://www.divvybikes.com/data-license-agreement).
+After I briefly scan through the datasets, I don't see any issues with bias, but one potential problem is that I saw a lot of missing values in the station names and ids columns. However, these datasets have sufficient information to answer the business task because I can use the member_casual column to find the difference between members and casual riders.
+
+Datasets Credibility: 
+- [x] Reliable
+- [x] Original
+- [x] Comprehensive
+- [x] Current
+- [x] Cited 
+
+Data Integrity:
+- [x] Consistent format and data type
+- [x] No PII (personally identifiable information)
+- [x] Lisense provided [here](https://www.divvybikes.com/data-license-agreement)
+
+*Note*: These datasets have a different name because Cyclistic is a fictional company.
 
 ### Cleaning and Manipulating Documentation:
 
 -   Merged all CSV files into one.
 -   Sorted data by started_at column descending.
--   Removed irrelevant columns and rename columns for clarity.
+-   Removed irrelevant columns and renamed columns for clarity.
 -   Added ride_length, day_of_week, month, season, and time_of_day
     columns.
 -   Fixed data types and categorical levels.
