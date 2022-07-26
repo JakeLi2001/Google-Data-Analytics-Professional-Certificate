@@ -89,9 +89,9 @@ Calculated:
     other words, casual customers use bikes for long trips, and members
     use them for shorter but more frequent trips.
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%201%20viz%20a.png)
+![](Viz/Finding_1_a.png)
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%201%20viz%20b.png)
+![](Viz/Finding_1_b.png)
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ Calculated:
     suggests that more people are willing to pay to use the bike when
     temperatures are high.
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%202%20viz.png)
+![](Viz/Finding_2.png)
 
 ------------------------------------------------------------------------
 
@@ -113,9 +113,9 @@ Calculated:
     afternoon and evening. This further confirms that members are taking
     bikes to work or routine related.
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%203%20viz%20a.png)
+![](Viz/Finding_3_a.png)
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%203%20viz%20b.png)
+![](Viz/Finding_3_b.png)
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ Calculated:
     bikes. This suggests that the ebike is a popular choice among casual
     riders even though it cost more.
 
-![](C:/Users\lijhu\Documents\Workspace\Case_Study_1\Viz\Finding%204%20viz.png)
+![](Viz/Finding_4.png)
 
 ### Top Three Recommendations
 
