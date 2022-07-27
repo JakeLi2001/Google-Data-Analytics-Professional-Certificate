@@ -1,8 +1,6 @@
 # About this Certificate
 
-The Google Data Analytics Professional Certificate contains 8 courses (over 180 hours of instruction and hundreds of practice-based assessments) and anyone can enroll on Coursera. To learn more, click [here](https://www.coursera.org/professional-certificates/google-data-analytics#about).
-
-This certificate taught me skill in R, data visualization, data cleansing, data analysis, spreadsheet, Tableau, SQL, and much more.
+The Google Data Analytics Professional Certificate contains 8 courses (over 180 hours of instruction and hundreds of practice-based assessments) and anyone can enroll on Coursera. This certificate taught me skill in R, data visualization, data cleansing, data analysis, spreadsheet, Tableau, SQL, and much more. To learn more, click [here](https://www.coursera.org/professional-certificates/google-data-analytics#about).
 
 ## Introduction
 
