@@ -1,12 +1,12 @@
-Case Study \#1 Report: How Does a Bike-Share Navigate Speedy Success?
-================
-JianHui (Jake) Li
+# About this Certificate
 
-2022-07-26
+The Google Data Analytics Professional Certificate contains 8 courses (over 180 hours of instruction and hundreds of practice-based assessments) and anyone can enroll on Coursera. To learn more, click [here](https://www.coursera.org/professional-certificates/google-data-analytics#about).
 
 ## Introduction
 
-This is case study #1 from track #1 in the final course of the Google Data Analytics Professional Certificate. I will be following the steps of the data analysis process (ask, prepare, process, analyze, share, act) I learned throughout the courses, and the case study roadmap provided as a guide.
+This repository showcases my capstone projects from the final course of the certificate. I will be following the steps of the data analysis process (ask, prepare, process, analyze, share, act) I learned throughout the courses, and the case study roadmap provided as a guide.
+
+Case Study \#1: How Does a Bike-Share Navigate Speedy Success?
 
 ## Background
 
