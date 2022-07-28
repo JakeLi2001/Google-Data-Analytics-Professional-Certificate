@@ -68,7 +68,7 @@ Data Integrity:
 
 ### Cleaning and Manipulating Documentation:
 
-Tools used: Rstudio
+Tool used: Rstudio
 - Merged all CSV files into one.
 - Sorted data by started_at column descending.
 - Removed irrelevant columns and renamed columns for clarity.
