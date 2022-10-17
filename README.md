@@ -91,8 +91,8 @@ Trends/Relationships:
 - There are more members than casual riders.
 - Ride duration for casual riders is higher than for members but less frequent.
 - Casual riders take significantly more rides during the summer.
-- Most common ride time is in the morning and afternoon for members. On the other, the most common ride time is afternoon and evening casual riders.
-- For some reason, members don't use docked bikes. After some research on the company, I can't find any information on docked bikes. I believe this shouldn't be a problem because only a portion of casual riders uses docked bikes.
+- Most common ride time is in the morning and afternoon for members. On the other hand, the most common ride time is afternoon and evening casual riders.
+- For some reason, members don't use docked bikes. After some research on the company, I can't find any information on docked bikes. I believe this shouldn't be a problem because only a small portion of casual riders use docked bikes.
 
 ### Key Findings and Supporting Visualizations
 
