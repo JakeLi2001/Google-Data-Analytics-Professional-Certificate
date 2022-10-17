@@ -70,7 +70,7 @@ Data Integrity:
 
 Tool used: Rstudio
 - Merged all CSV files into one.
-- Sorted data by started_at column descending.
+- Sorted data by descending on the started_at column.
 - Removed irrelevant columns and renamed columns for clarity.
 - Added ride_length, day_of_week, month, season, and time_of_day columns.
 - Fixed data types and categorical levels.
@@ -81,8 +81,8 @@ Tool used: Rstudio
 
 Calculated:
 
-1) Number of rides, average, minimum, median, and maximum of ride length in minutes by customer type.
-2) Number of rides, average, minimum, median, and maximum of ride length in minutes by customer type per season.
+1) Number of rides, average, minimum, median, and maximum ride length in minutes by customer type.
+2) Number of rides, average, minimum, median, and maximum ride length in minutes by customer type per season.
 3) Number of rides and average ride length in minutes by customer type per month.
 4) Number of rides and average ride length in minutes by customer type per day of week and time of day.
 5) Rideable type frequency and its average ride length in minutes by customer type.
@@ -91,12 +91,12 @@ Trends/Relationships:
 - There are more members than casual riders.
 - Ride duration for casual riders is higher than for members but less frequent.
 - Casual riders take significantly more rides during the summer.
-- Most common ride time is in the morning and afternoon for members. On the other hand, the most common ride time is afternoon and evening casual riders.
-- For some reason, members don't use docked bikes. After some research on the company, I can't find any information on docked bikes. I believe this shouldn't be a problem because only a small portion of casual riders use docked bikes.
+- The most common ride time is in the morning and afternoon for members. On the other hand, the most common ride time is afternoon and evening casual riders.
+- For some reason, members do not use docked bikes. After researching the company, I can not find any information on docked bikes. I believe this should not be a problem because only a small portion of casual riders use docked bikes.
 
 ### Key Findings and Supporting Visualizations
 
-1)  The average ride length for casual customers is always higher than members, but the number of rides is always less than members regardless of season and time of day. This suggests that casual customers take rides for long trips to make it worth the cost. In other words, casual customers use bikes for long trips, and members use them for shorter but more frequent trips.
+1) The average ride length for casual customers is always higher than members, but the number of rides is always less than members regardless of season and time of day. This suggests that casual customers take rides for long trips to make it worth the cost. In other words, casual customers use bikes for long trips, and members use them for shorter but more frequent trips.
 
 ![](Viz/Finding_1_a.png)
 
@@ -104,13 +104,13 @@ Trends/Relationships:
 
 ------------------------------------------------------------------------
 
-2)  Casual customers take fewer rides in the spring, fall, and winter compared to members expect in the summer. Casual customers take nearly the same amount of rides as members during the summer. This suggests that more people are willing to pay to use the bike when temperatures are high.
+2) Casual customers take fewer rides in the spring, fall, and winter compared to members expect in the summer. Casual customers take nearly the same amount of rides as members during the summer. This suggests that more people are willing to pay to use the bike when temperatures are high.
 
 ![](Viz/Finding_2.png)
 
 ------------------------------------------------------------------------
 
-3)  Members take more rides on weekdays than casual customers. This suggests that members are using bikes to get to work/school. In addition, the most common time of day of the ride takes place in the morning and afternoon for members. On the other hand, for casual customers, the most common time of day of the ride is in the afternoon and evening. This further confirms that members are taking bikes to work or routine related.
+3) Members take more rides on weekdays than casual customers. This suggests that members are using bikes to get to work/school. In addition, the most common time of day of the ride takes place in the morning and afternoon for members. On the other hand, for casual customers, the most common time of day of the ride is in the afternoon and evening. This further confirms that members are taking bikes to work or routine related.
 
 ![](Viz/Finding_3_a.png)
 
@@ -118,17 +118,17 @@ Trends/Relationships:
 
 ------------------------------------------------------------------------
 
-4)  Casual riders use electric bikes almost as often as classic bikes even though nonmembers need to pay an extra fee to unlock electric bikes. This suggests that the ebike is a popular choice among casual riders even though it cost more.
+4) Casual riders use electric bikes almost as often as classic bikes even though nonmembers need to pay an extra fee to unlock electric bikes. This suggests that the ebike is a popular choice among casual riders even though it cost more.
 
 ![](Viz/Finding_4.png)
 
 ### Top Three Recommendations
 
-1)  Emphasize membership’s affordability and its access to unlimited 45-minute rides on classic bikes or electric bikes. Also mention that it’s an affordable and convenient way to get to work, school, gym, leisure, etc. This attracts frequent casual riders or riders who need to commute every day.
+1) Emphasize membership’s affordability and accessibility to unlimited 45-minute rides on classic bikes or electric bikes. Also, mention that it’s an affordable and convenient way to get to work, school, gym, leisure, etc. This attracts frequent casual riders or riders who need to commute every day.
 
-2)  Since there are significantly more casual riders in summer, releasing advertisements near/during the summer will help attract casual riders who seek affordable transportation during high temperatures.
+2) Since there are significantly more casual riders in summer, releasing advertisements near/during the summer will help attract casual riders who seek affordable transportation during high temperatures.
 
-3)  Make a point that members don’t have to pay a fee to unlock an electric bike. This targets casual riders who prefer to use electric bikes over classic bikes.
+3) Make a point that members don’t have to pay a fee to unlock an electric bike. This targets casual riders who prefer to use electric bikes over classic bikes.
 
 ### Possible Improvements
 
