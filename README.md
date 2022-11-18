@@ -6,7 +6,7 @@ The Google Data Analytics Professional Certificate contains 8 courses (over 180 
 
 This repository showcases my capstone projects from the final course of the certificate. I will be following the steps of the data analysis process (ask, prepare, process, analyze, share, act) I learned throughout the courses, and the case study roadmap provided as a guide.
 
-Case Study \#1: How Does a Bike-Share Navigate Speedy Success?
+Case Study: How Does a Bike-Share Navigate Speedy Success?
 
 ## Background
 
